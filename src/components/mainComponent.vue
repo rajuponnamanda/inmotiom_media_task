@@ -2,7 +2,7 @@
   <div>
     <!-- Navbar Section -->
     <nav class="navbar">
-      <div class="navbar-title">My App</div>
+      <div class="navbar-title">Inmotion Media</div>
       <input type="text" v-model="searchQuery" placeholder="Search..." class="navbar-search">
     </nav>
 
